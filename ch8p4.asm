@@ -1,5 +1,4 @@
 ; Chapter 8 Main Program
-; Author: Kathryn Sheahen
 ; Date: 4/28/2024
 
 INCLUDE Irvine32.inc 
